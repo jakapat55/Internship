@@ -1,0 +1,16 @@
+FROM node:19 AS S1
+COPY SASFront-End/ /proj/
+WORKDIR /proj/
+RUN npm install
+RUN npm run build
+
+FROM nginx:alpine
+COPY --from=S1 /proj/dist/ /usr/share/nginx/html/
+
+FROM node:19 AS stage1
+COPY SASFront-End/ /nodeproj/
+WORKDIR /nodeproj/
+RUN npm install
+RUN npm run build
+FROM nginx:alpine
+COPY --from=stage1 /nodeproj/dist/ /usr/share/nginx/html/

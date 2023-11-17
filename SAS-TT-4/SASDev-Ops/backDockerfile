@@ -1,0 +1,7 @@
+FROM OpenJDK 17 JDK
+ENV mysql_url="172.17.0.3" 
+COPY target/*.jar /app.jar
+ENTRYPOINT [ "java","-jar","/app.jar" ]
+
+
+docker run -p 8080:8080 --name SAS_Back -d --restart unless-stopped sasback:1.00 

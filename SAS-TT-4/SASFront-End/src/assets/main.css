@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  .ql-editor h1 {
+    font-size: 32px;
+  }
+  
+  .ql-editor h2 {
+    font-size: 28px;
+  }
+  
+  .ql-editor h3 {
+    font-size: 24px;
+  }
+  
+  .ql-editor h4 {
+    font-size: 18px;
+  }
+  
+  .ql-editor h5 {
+    font-size: 16px;
+  }
+  
+  .ql-editor h6 {
+    font-size: 14px;
+  }

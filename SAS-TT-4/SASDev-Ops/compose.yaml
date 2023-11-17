@@ -1,0 +1,17 @@
+services:
+  frontEnd:
+    image: sasfront:1.00
+    build:
+      context: .
+      dockerfile: frontDockerfile
+
+    ports:
+      - "80:80"
+
+  backEnd:
+   image: sasback:1.00
+   build:
+      context: .
+      dockerfile: backDockerfile
+   ports:
+      - "8080:8080"

@@ -1,0 +1,10 @@
+FROM mysql
+
+ENV MYSQL_ROOT_PASSWORD=SASDB_TT4
+ENV MYSOL_USER=SASBackEnd
+ENV MYSQL_PASSWORD=SAS_TT4_BE
+ENV MYSQL_DATABASE=sas
+
+COPY SASInsert.sql /docker-entrypoint-initdb.d
+
+docker container run --name SAS_DB -v /home/sysadmin/SAS/SASDatabaes/dataFile:/var/lib/ -e LANG="en_US.UTF-8" -d --restart unless-stopped sasdb:1.00

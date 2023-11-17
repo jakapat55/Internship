@@ -1,0 +1,5 @@
+curl -G https://start.spring.io/starter.zip -d dependencies=web -d type=maven-project -o demo.zip
+
+
+
+docker container run --name SAS_DB -v /home/sysadmin/SAS/SASDatabaes/dataFile:/var/lib/ -e LANG="en_US.UTF-8" -d --restart unless-stopped sasdb:1.00

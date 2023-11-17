@@ -1,0 +1,1730 @@
+{
+  "users": [
+    
+  ],
+  "flowers": [
+    {
+      "mode": [
+        {
+          "modeName": "Easy",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "ชบา-แก้ว",
+              "ans": "ชบาแก้ว",
+              "hint": "แฟนก้านกล้วย",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ชบา",
+                  "path": "/imgs/questions/Flower/easy/ชบาแก้ว/chaba.svg"
+                },
+                {
+                  "name": "แก้ว",
+                  "path": "/imgs/questions/Flower/easy/ชบาแก้ว/kaew.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ดอก-จิก",
+              "ans": "ดอกจิก",
+              "hint": "อยู่หน้าไพ่ โพแดง โพดำ ข้าวหลามตัด ...",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/easy/ดอกจิก/dok.svg"
+                },
+                {
+                  "name": "จิก",
+                  "path": "/imgs/questions/Flower/easy/ดอกจิก/jik.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "ดอก-เข็ม",
+              "ans": "ดอกเข็ม",
+              "hint": "ดอกไม้วันครู",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/easy/ดอกเข็ม/dok.svg"
+                },
+                {
+                  "name": "เข็ม",
+                  "path": "/imgs/questions/Flower/easy/ดอกเข็ม/khem.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "ดอก-แก้ว",
+              "ans": "ดอกแก้ว",
+              "hint": "ภาชนะสำหรับดื่มน้ำ แตกง่าย",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/easy/ดอกแก้ว/dok.svg"
+                },
+                {
+                  "name": "แก้ว",
+                  "path": "/imgs/questions/Flower/easy/ดอกแก้ว/kaew.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "ทาน-ตะวัน",
+              "ans": "ทานตะวัน",
+              "hint": "แฮมทาโร่ชอบกินเมล็ดของดอกนี้",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ทาน",
+                  "path": "/imgs/questions/Flower/easy/ทานตะวัน/tan.svg"
+                },
+                {
+                  "name": "ตะวัน",
+                  "path": "/imgs/questions/Flower/easy/ทานตะวัน/tawan.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "บัว-แดง",
+              "ans": "บัวแดง",
+              "hint": "พืชน้ำ พบได้ตามบึง, บ่อ, คลอง ดอกมีสีชมพู",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "บัว",
+                  "path": "/imgs/questions/Flower/easy/บัวแดง/bua.svg"
+                },
+                {
+                  "name": "แดง",
+                  "path": "/imgs/questions/Flower/easy/บัวแดง/daeng.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "ลำ-ดวน",
+              "ans": "ลำดวน",
+              "hint": "เป็นเพื่อนกับลำยอง",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลำ",
+                  "path": "/imgs/questions/Flower/easy/ลำดวน/rum.svg"
+                },
+                {
+                  "name": "ดวน",
+                  "path": "/imgs/questions/Flower/easy/ลำดวน/duan.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "จำ-ปลา",
+              "ans": "จำปา",
+              "hint": "ดอกที่คู่กับจำปี",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "จำ",
+                  "path": "/imgs/questions/Flower/easy/จำปา/jum.svg"
+                },
+                {
+                  "name": "ปลา",
+                  "path": "/imgs/questions/Flower/easy/จำปา/pla.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "กล้วย-ไม้",
+              "ans": "กล้วยไม้",
+              "hint": "นิยมใช้ไหว้พระ ใส่บาตร",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "กล้วย",
+                  "path": "/imgs/questions/Flower/easy/กล้วยไม้/kluay.svg"
+                },
+                {
+                  "name": "ไม้",
+                  "path": "/imgs/questions/Flower/easy/กล้วยไม้/mai.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "ดอก-คูณ",
+              "ans": "ดอกคูณ",
+              "hint": "ดอกไม้ประจำชาติไทย",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/easy/ดอกคูณ/dok.svg"
+                },
+                {
+                  "name": "คูณ",
+                  "path": "/imgs/questions/Flower/easy/ดอกคูณ/khun.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Normal",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "โบว์-ตั๋น",
+              "ans": "โบตั๋น",
+              "hint": "ยี่ห้องลุกอมชุ่มคอ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "โบว์",
+                  "path": "/imgs/questions/Flower/normal/โบตั๋น/bo.svg"
+                },
+                {
+                  "name": "ตั๋น",
+                  "path": "/imgs/questions/Flower/normal/โบตั๋น/tan.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ตีน-เป็ด",
+              "ans": "ตีนเป็ด",
+              "hint": "เท้าของสัตว์ปีก นิยมนำมาต้มพะโล้",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ตีน",
+                  "path": "/imgs/questions/Flower/normal/ตีนเป็ด/ped.svg"
+                },
+                {
+                  "name": "เป็ด",
+                  "path": "/imgs/questions/Flower/normal/ตีนเป็ด/teen.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "อัน-ชัน",
+              "ans": "อัญชัน",
+              "hint": "ดอกไม้สีน้ำม่วงอมน้ำเงิน นิยมทำน้ำสมุนไพร",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "อัน",
+                  "path": "/imgs/questions/Flower/normal/อัญชัน/an.svg"
+                },
+                {
+                  "name": "ชัน",
+                  "path": "/imgs/questions/Flower/normal/อัญชัน/chan.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "กุ-หลับ",
+              "ans": "กุหลาบ",
+              "hint": "นิยมให้วันวาเลนไทน์",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "กุ",
+                  "path": "/imgs/questions/Flower/normal/กุหลาบ/ku.svg"
+                },
+                {
+                  "name": "หลับ",
+                  "path": "/imgs/questions/Flower/normal/กุหลาบ/lab.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "วาด-สระ-นา",
+              "ans": "วาสนา",
+              "hint": "เกี่ยวกับโชคลาภ เสี่ยงดวง",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "วาด",
+                  "path": "/imgs/questions/Flower/normal/วาสนา/wad.svg"
+                },
+                {
+                  "name": "สระ",
+                  "path": "/imgs/questions/Flower/normal/วาสนา/sa.svg"
+                },
+                {
+                  "name": "นา",
+                  "path": "/imgs/questions/Flower/normal/วาสนา/na.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "พุทธ-รักษา",
+              "ans": "พุทธรักษา",
+              "hint": "ดอกไม้ประจำวันพ่อ",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "พุทธ",
+                  "path": "/imgs/questions/Flower/normal/พุทธรักษา/pud.svg"
+                },
+                {
+                  "name": "รักษา",
+                  "path": "/imgs/questions/Flower/normal/พุทธรักษา/rak-sa.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "ดาว-เรือง",
+              "ans": "ดาวเรือง",
+              "hint": "นิยมนำมาทำพวงมาลัยไหว้พระ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ดาว",
+                  "path": "/imgs/questions/Flower/normal/ดาวเรือง/dao.svg"
+                },
+                {
+                  "name": "เรือง",
+                  "path": "/imgs/questions/Flower/normal/ดาวเรือง/reung.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "ยี่-โถ",
+              "ans": "ยี่โถ",
+              "hint": "ดอกสีชมพู ใช้ทำยาพิษ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ยี่",
+                  "path": "/imgs/questions/Flower/normal/ยี่โถ/yi.svg"
+                },
+                {
+                  "name": "โถ",
+                  "path": "/imgs/questions/Flower/normal/ยี่โถ/to.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "หาง-นกยูง",
+              "ans": "หางนกยูง",
+              "hint": "หางของนกที่สวยงาม",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "หาง",
+                  "path": "/imgs/questions/Flower/normal/หางนกยูง/hang.svg"
+                },
+                {
+                  "name": "นกยูง",
+                  "path": "/imgs/questions/Flower/normal/หางนกยูง/nok-yoong.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "เฟือง-ฟ้า",
+              "ans": "เฟื่องฟ้า",
+              "hint": "ดอกสีชมพู มีหนาม สามารถพบได้ทั่วไป",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "เฟือง",
+                  "path": "/imgs/questions/Flower/normal/เฟื่องฟ้า/feung.svg"
+                },
+                {
+                  "name": "ฟ้า",
+                  "path": "/imgs/questions/Flower/normal/เฟื่องฟ้า/fah.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Hard",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "กัน-นิ-กา",
+              "ans": "กรรณนิการ์",
+              "hint": "ผู้ชำนาญการเกี่ยวกับนก",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กัน",
+                  "path": "/imgs/questions/Flower/hard/กรรณิการ์/gun.svg"
+                },
+                {
+                  "name": "นิ",
+                  "path": "/imgs/questions/Flower/hard/กรรณิการ์/ni.svg"
+                },
+                {
+                  "name": "กา",
+                  "path": "/imgs/questions/Flower/hard/กรรณิการ์/ka.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "บาน-ชื่น",
+              "ans": "บานชื่น",
+              "hint": "ดอกไม้สีสันสดใส ออกดอกตลอดทั้งปี เหมือนรอยยิ้มที่สดใส",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "บาน",
+                  "path": "/imgs/questions/Flower/hard/บานชื่น/ban.svg"
+                },
+                {
+                  "name": "ชื่น",
+                  "path": "/imgs/questions/Flower/hard/บานชื่น/cheun.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "ดอก-พิ-กุน",
+              "ans": "ดอกพิกุล",
+              "hint": "ระวัง...ร่วงออกจากปาก",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/hard/ดอกพิกุล/dok.svg"
+                },
+                {
+                  "name": "พิ",
+                  "path": "/imgs/questions/Flower/hard/ดอกพิกุล/pi.svg"
+                },
+                {
+                  "name": "กุน",
+                  "path": "/imgs/questions/Flower/hard/ดอกพิกุล/gun.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "ลำ-เจี๊ยก",
+              "ans": "ลำเจียก",
+              "hint": "สายน้ำที่ไหลผ่านภูเขาหรือป่าไม้ หรือเรียกว่าเป็นลำธารเล็กๆ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลำ",
+                  "path": "/imgs/questions/Flower/hard/ลำเจียก/rum.svg"
+                },
+                {
+                  "name": "เจี๊ยก",
+                  "path": "/imgs/questions/Flower/hard/ลำเจียก/jiak.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "ลา-ตี",
+              "ans": "ราตรี",
+              "hint": "ช่วงเวลากลางคืน",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลา",
+                  "path": "/imgs/questions/Flower/hard/ราตรี/la.svg"
+                },
+                {
+                  "name": "ตี",
+                  "path": "/imgs/questions/Flower/hard/ราตรี/tee.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "ดอก-กล้วยเล็บมือนาง",
+              "ans": "ดอกเล็บมือนาง",
+              "hint": "ชื่อเหมือนกับกล้วยสายพันธุ์หนึ่ง",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "ดอก",
+                  "path": "/imgs/questions/Flower/hard/ดอกเล็บมือนาง/dok.svg"
+                },
+                {
+                  "name": "กล้วยเล็บมือนาง",
+                  "path": "/imgs/questions/Flower/hard/ดอกเล็บมือนาง/leb-meu-nang.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "กา-สระ-ลอง",
+              "ans": "กาสะลอง",
+              "hint": "พี่น้องกับซ้องปีบ",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กา",
+                  "path": "/imgs/questions/Flower/hard/กาสะลอง/ka.svg"
+                },
+                {
+                  "name": "สระ",
+                  "path": "/imgs/questions/Flower/hard/กาสะลอง/sa.svg"
+                },
+                {
+                  "name": "ลอง",
+                  "path": "/imgs/questions/Flower/hard/กาสะลอง/long.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "อาร์-เค-เซียร์",
+              "ans": "อาเคเซีย",
+              "hint": "เทพแห่งอาหารใน Toriko",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "อาร์",
+                  "path": "/imgs/questions/Flower/hard/อาเคเซีย/r.svg"
+                },
+                {
+                  "name": "เค",
+                  "path": "/imgs/questions/Flower/hard/อาเคเซีย/k.svg"
+                },
+                {
+                  "name": "เซียร์",
+                  "path": "/imgs/questions/Flower/hard/อาเคเซีย/sia.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "ลาน-ไพลิน",
+              "ans": "ลานไพลิน",
+              "hint": "พื้นที่กว้างที่เต็มไปด้วยอัญมณีสีน้ำเงิน",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ลาน",
+                  "path": "/imgs/questions/Flower/hard/ลานไพลิน/lan.svg"
+                },
+                {
+                  "name": "ไพลิน",
+                  "path": "/imgs/questions/Flower/hard/ลานไพลิน/pai-lin.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "ม่วง-แม่มณี-รัด",
+              "ans": "ม่วงมณีรัตน์",
+              "hint": "ดอกไม้สีม่วงที่สวยงาม",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "ม่วง",
+                  "path": "/imgs/questions/Flower/hard/ม่วงมณีรัตน์/muang.svg"
+                },
+                {
+                  "name": "แม่มณี",
+                  "path": "/imgs/questions/Flower/hard/ม่วงมณีรัตน์/manee.svg"
+                },
+                {
+                  "name": "รัด",
+                  "path": "/imgs/questions/Flower/hard/ม่วงมณีรัตน์/rad.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fruits": [
+    {
+      "mode": [
+        {
+          "modeName": "Easy",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "สับ-ปลา-รถ",
+              "ans": "สับปะรด",
+              "hint": "มีตารอบตัว มีตัวลายตา ฮูล่า ฮูล่า",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "สับ",
+                  "path": "/imgs/questions/Fruit/easy/pineapple/cut.svg"
+                },
+                {
+                  "name": "ปลา",
+                  "path": "/imgs/questions/Fruit/easy/pineapple/fish.svg"
+                },
+                {
+                  "name": "รถ",
+                  "path": "/imgs/questions/Fruit/easy/pineapple/car.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "แคน-ตา-ลูป",
+              "ans": "แคนตาลูป",
+              "hint": "มีต้นกำเนิดมาจากเมืองแคนตาลูโป",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "แคน",
+                  "path": "/imgs/questions/Fruit/easy/cantaloupe/Can.svg"
+                },
+                {
+                  "name": "ตา",
+                  "path": "/imgs/questions/Fruit/easy/cantaloupe/eye.svg"
+                },
+                {
+                  "name": "ลูป",
+                  "path": "/imgs/questions/Fruit/easy/cantaloupe/loop.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "มั้ง-คุด",
+              "ans": "มังคุด",
+              "hint": "ราชินีผลไม้",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "มั้ง",
+                  "path": "/imgs/questions/Fruit/easy/mangosteen/monk.svg"
+                },
+                {
+                  "name": "ฟันคุด",
+                  "path": "/imgs/questions/Fruit/easy/mangosteen/kud teeth.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "ชม-พู่",
+              "ans": "ชมพู่",
+              "hint": "ชื่อจริงคืออารยา",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ชมวิว",
+                  "path": "/imgs/questions/Fruit/easy/rose apple/view.svg"
+                },
+                {
+                  "name": "พู่กัน",
+                  "path": "/imgs/questions/Fruit/easy/rose apple/phu.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "รำ-ใย",
+              "ans": "ลำไย",
+              "hint": "ผู้สาวขาเลาะ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "รำ",
+                  "path": "/imgs/questions/Fruit/easy/longan/thaiDance.svg"
+                },
+                {
+                  "name": "ใย",
+                  "path": "/imgs/questions/Fruit/easy/longan/spider-web.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "โต-แมง",
+              "ans": "แตงโม",
+              "hint": "เป็นเพลงของ จินตหรา พูนลาภ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "โต",
+                  "path": "/imgs/questions/Fruit/easy/watermelon/To.svg"
+                },
+                {
+                  "name": "แมง",
+                  "path": "/imgs/questions/Fruit/easy/watermelon/spider.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "ก้าวไกล-มจธ",
+              "ans": "ส้มบางมด",
+              "hint": "เคยเป็นของขึ้นชื่อแถวบางมด",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ก้าวไกล",
+                  "path": "/imgs/questions/Fruit/easy/Bangmod orange/orange.svg"
+                },
+                {
+                  "name": "บางมด",
+                  "path": "/imgs/questions/Fruit/easy/Bangmod orange/kmutt.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "น้อย-หน้า",
+              "ans": "น้อยหน่า",
+              "hint": "เป็นคำเรียกอีกชื่อหนึ่งของระเบิด",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "น้อย",
+                  "path": "/imgs/questions/Fruit/easy/custard Apple/a little.svg"
+                },
+                {
+                  "name": "หน้า",
+                  "path": "/imgs/questions/Fruit/easy/custard Apple/face.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "ม้า-ล้า-กอลัม",
+              "ans": "มะละกอ",
+              "hint": "ใช้ทำเป็นเมนูอาหารขึ้นชื่อของภาคอีสาน",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ม้า",
+                  "path": "/imgs/questions/Fruit/easy/papaya/horse.svg"
+                },
+                {
+                  "name": "ล้า",
+                  "path": "/imgs/questions/Fruit/easy/papaya/tried.svg"
+                },
+                {
+                  "name": "กอลัม",
+                  "path": "/imgs/questions/Fruit/easy/papaya/golum.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "แอป-เบิ้ล",
+              "ans": "แอปเปิ้ล",
+              "hint": "สโนไวท์",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "แอป",
+                  "path": "/imgs/questions/Fruit/easy/apple/App.svg"
+                },
+                {
+                  "name": "เบิ้ล",
+                  "path": "/imgs/questions/Fruit/easy/apple/double.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Normal",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "มะม่วง-เบา",
+              "ans": "มะม่วงเบา",
+              "hint": "ผลไม้ลูกเล็กๆ ผลสีเขียว กินกับน้ำปลาหวาน",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "มะม่วง",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงเบา/mango.svg"
+                },
+                {
+                  "name": "เบา",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงเบา/bao.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ลามุด",
+              "ans": "ละมุด",
+              "hint": "พุทรา มังคุด ... ลำไย",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลามุด",
+                  "path": "/imgs/questions/Fruit/normal/ละมุด/lamud.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "ม้า-เฟือง",
+              "ans": "มะเฟือง",
+              "hint": "ผลไม้รูปดาว",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ม้า",
+                  "path": "/imgs/questions/Fruit/normal/มะเฟือง/ma.svg"
+                },
+                {
+                  "name": "เฟือง",
+                  "path": "/imgs/questions/Fruit/normal/มะเฟือง/gear.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "ลิ้น-จี่",
+              "ans": "ลิ้นจี่",
+              "hint": "เปลือกสีแดง มีรสหวาน เป็นรสชาติของ Jele Light",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลิ้น",
+                  "path": "/imgs/questions/Fruit/normal/ลิ้นจี่/lin.svg"
+                },
+                {
+                  "name": "จี่",
+                  "path": "/imgs/questions/Fruit/normal/ลิ้นจี่/ji.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "มะม่วง-หาว-มะนาว-โห่",
+              "ans": "มะม่วงหาวมะนาวโห่",
+              "hint": "มะม่วงง่วงนอน มะนาวร้อง",
+              "pronounce": "6 พยางค์",
+              "pic": [
+                {
+                  "name": "มะม่วง",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงหาวมะนาวโห/mango.svg"
+                },
+                {
+                  "name": "หาว",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงหาวมะนาวโห/hao.svg"
+                },
+                {
+                  "name": "มะนาว",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงหาวมะนาวโห/manao.svg"
+                },
+                {
+                  "name": "โห่",
+                  "path": "/imgs/questions/Fruit/normal/มะม่วงหาวมะนาวโห/ho.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "ม้า-หมอยง-ใกล้ชิด",
+              "ans": "มะยงชิด",
+              "hint": "ผลสีส้มคล้ายไข่ไก่",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ม้า",
+                  "path": "/imgs/questions/Fruit/normal/มะยงชิด/ma.svg"
+                },
+                {
+                  "name": "หมอยง",
+                  "path": "/imgs/questions/Fruit/normal/มะยงชิด/yong.svg"
+                },
+                {
+                  "name": "ใกล้ชิด",
+                  "path": "/imgs/questions/Fruit/normal/มะยงชิด/shid.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "เสา-รถ",
+              "ans": "เสาวรส",
+              "hint": "... นารีปราโมท พิโรธวาทัง สัลลปังคพิสัย",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "เสา",
+                  "path": "/imgs/questions/Fruit/normal/เสาวรส/sao.svg"
+                },
+                {
+                  "name": "รถ",
+                  "path": "/imgs/questions/Fruit/normal/เสาวรส/rod.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "สระ",
+              "ans": "สละ",
+              "hint": "กลิ่นของน้ำแดงเฮลซ์บลูบอย",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "สระ",
+                  "path": "/imgs/questions/Fruit/normal/สละ/sala.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "ม้า-ไฟ",
+              "ans": "มะไฟ",
+              "hint": "คล้ายลำไย ผลสีส้ม รสชาติหวานอมเปรี้ยว",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ม้า",
+                  "path": "/imgs/questions/Fruit/normal/มะไฟ/ma.svg"
+                },
+                {
+                  "name": "ไฟ",
+                  "path": "/imgs/questions/Fruit/normal/มะไฟ/fire.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "ลอง-กลอง",
+              "ans": "ลองกอง",
+              "hint": "ตึ่ง ตึ่ง โป๊ะ ตึ่ง ตึ่ง !",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลอง",
+                  "path": "/imgs/questions/Fruit/normal/ลองกอง/long.svg"
+                },
+                {
+                  "name": "กลอง",
+                  "path": "/imgs/questions/Fruit/normal/ลองกอง/glong.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Hard",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "ลาด-เบอร์รี่",
+              "ans": "ราสเบอร์รี่",
+              "hint": "เบอร์รี่ลูกสุดท้าย",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ลาด",
+                  "path": "/imgs/questions/Fruit/hard/ราสเบอร์รี่/lad.svg"
+                },
+                {
+                  "name": "เบอร์รี่",
+                  "path": "/imgs/questions/Fruit/hard/ราสเบอร์รี่/berry.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ดำ-เคอร์เเรนท์",
+              "ans": "แบล็กเคอร์เรนท์",
+              "hint": "ผลสีดำคล้ายบลูเบอร์รี่ แต่ไม่ใช่เบอร์รี่",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ดำ",
+                  "path": "/imgs/questions/Fruit/hard/แบล็กเคอร์เรนท/black.svg"
+                },
+                {
+                  "name": "เคอร์เเรนท์",
+                  "path": "/imgs/questions/Fruit/hard/แบล็กเคอร์เรนท/current.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "อิน-ผา-ลัม",
+              "ans": "อินทผลัม",
+              "hint": "นิยมนำมาทำผลไม้อบแห้ง มีถิ่นกำเนิดแถวตะวันออกกลาง",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "อิน",
+                  "path": "/imgs/questions/Fruit/hard/อินทผลัม/in.svg"
+                },
+                {
+                  "name": "ผา",
+                  "path": "/imgs/questions/Fruit/hard/อินทผลัม/pha.svg"
+                },
+                {
+                  "name": "ลัม",
+                  "path": "/imgs/questions/Fruit/hard/อินทผลัม/rum.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "แอป-พลิ-คลอด",
+              "ans": "แอปริคอต",
+              "hint": "ผลคล้ายลูกพีช สีเหลือง มีเมล็ดตรงกลาง",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "แอป",
+                  "path": "/imgs/questions/Fruit/hard/แอพพลิคอด/app.svg"
+                },
+                {
+                  "name": "พลิ",
+                  "path": "/imgs/questions/Fruit/hard/แอพพลิคอด/pli.svg"
+                },
+                {
+                  "name": "คลอด",
+                  "path": "/imgs/questions/Fruit/hard/แอพพลิคอด/cot.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "ตา-ขบ",
+              "ans": "ตะขบ",
+              "hint": "ตะขาบ ตะเข็บ ...",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ตา",
+                  "path": "/imgs/questions/Fruit/hard/ตะขบ/eye.svg"
+                },
+                {
+                  "name": "ขบ",
+                  "path": "/imgs/questions/Fruit/hard/ตะขบ/kop.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "เอ-โว-คาร์-โด",
+              "ans": "อาโวคาโด",
+              "hint": "เนื้อสีเขียว เมล็ดเท่าลูกปิงปอง",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "เอ",
+                  "path": "/imgs/questions/Fruit/hard/อะโวคาโด/A.svg"
+                },
+                {
+                  "name": "โว",
+                  "path": "/imgs/questions/Fruit/hard/อะโวคาโด/vo.svg"
+                },
+                {
+                  "name": "คาร์",
+                  "path": "/imgs/questions/Fruit/hard/อะโวคาโด/car.svg"
+                },
+                {
+                  "name": "โด",
+                  "path": "/imgs/questions/Fruit/hard/อะโวคาโด/do.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "แคน-เบอร์รี่",
+              "ans": "แครนเบอร์รี่",
+              "hint": "เบอร์รี่กระป๋อง",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "แคน",
+                  "path": "/imgs/questions/Fruit/hard/แครนเบอรี่/can.svg"
+                },
+                {
+                  "name": "เบอร์รี่",
+                  "path": "/imgs/questions/Fruit/hard/แครนเบอรี่/berry.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "โก-จิก-เบอร์รี่",
+              "ans": "โกจิเบอร์รี่",
+              "hint": "ผลไม้พื้นเมืองของจีน มีอีกชื่อว่า 'เก๋ากี้'",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "โก",
+                  "path": "/imgs/questions/Fruit/hard/โกจิเบอร์รี่/go.svg"
+                },
+                {
+                  "name": "จิก",
+                  "path": "/imgs/questions/Fruit/hard/โกจิเบอร์รี่/jik.svg"
+                },
+                {
+                  "name": "เบอร์รี่",
+                  "path": "/imgs/questions/Fruit/hard/โกจิเบอร์รี่/berry.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "โกมุโกมุ",
+              "ans": "โกมุโกมุ",
+              "hint": "กินแล้วเป็นราชาปีศาจ",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "โกมุโกมุ",
+                  "path": "/imgs/questions/Fruit/hard/โกมุโกมุ/gomugomu.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "องุ่น-ไซ-มัด-คัท",
+              "ans": "องุ่นไซมัสคัส",
+              "hint": "ผลไม้สีเขียว เป็นพวง ราคาแพง พบได้ตามห้าง",
+              "pronounce": "5 พยางค์",
+              "pic": [
+                {
+                  "name": "องุ่น",
+                  "path": "/imgs/questions/Fruit/hard/องุ่นไซมัสคัส/grape.svg"
+                },
+                {
+                  "name": "ไซ",
+                  "path": "/imgs/questions/Fruit/hard/องุ่นไซมัสคัส/sai.svg"
+                },
+                {
+                  "name": "มัด",
+                  "path": "/imgs/questions/Fruit/hard/องุ่นไซมัสคัส/mus.svg"
+                },
+                {
+                  "name": "คัท",
+                  "path": "/imgs/questions/Fruit/hard/องุ่นไซมัสคัส/cut.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vegies": [
+    {
+      "mode": [
+        {
+          "modeName": "Easy",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "แคร์-ลอด",
+              "ans": "แครอท",
+              "hint": "ผักที่อยู่กับกระต่าย",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "แคร์",
+                  "path": "/imgs/questions/Vegetable/easy/แครอท/care.svg"
+                },
+                {
+                  "name": "ลอด",
+                  "path": "/imgs/questions/Vegetable/easy/แครอท/lod.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "บล็อก-โค-ลี่",
+              "ans": "บร็อคโคลี่",
+              "hint": "Faker(LOL) ชอบกิน รูปร่างคล้ายต้นไม้",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "บล็อก",
+                  "path": "/imgs/questions/Vegetable/easy/บล็อคโคลี/block.svg"
+                },
+                {
+                  "name": "โค",
+                  "path": "/imgs/questions/Vegetable/easy/บล็อคโคลี/co.svg"
+                },
+                {
+                  "name": "ลี่",
+                  "path": "/imgs/questions/Vegetable/easy/บล็อคโคลี/ly.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "ผัก-บุ้ง",
+              "ans": "ผักบุ้ง",
+              "hint": "ผัดผักที่ต้องโยนขึ้นฟ้า",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ผัก",
+                  "path": "/imgs/questions/Vegetable/easy/ผักบุ้ง/pak.svg"
+                },
+                {
+                  "name": "บุ้ง",
+                  "path": "/imgs/questions/Vegetable/easy/ผักบุ้ง/bung.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "แตง-กวา",
+              "ans": "แตงกวา",
+              "hint": "ผักเครื่องเคียงไว้กินกับน้ำพริก",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "แตง",
+                  "path": "/imgs/questions/Vegetable/easy/แตงกวา/tank.svg"
+                },
+                {
+                  "name": "กวา",
+                  "path": "/imgs/questions/Vegetable/easy/แตงกวา/gwa.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "กะ-ล่ำ-ปี",
+              "ans": "กะหล่ำปลี",
+              "hint": "มีลักษณะเป็นหัว ใบสีเขียว กินคู่กับหมูทอดทงคัตสึ",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กะ",
+                  "path": "/imgs/questions/Vegetable/easy/กะหล่ำปลี/ka.svg"
+                },
+                {
+                  "name": "ล่ำ",
+                  "path": "/imgs/questions/Vegetable/easy/กะหล่ำปลี/lum.svg"
+                },
+                {
+                  "name": "ปี",
+                  "path": "/imgs/questions/Vegetable/easy/กะหล่ำปลี/pee.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "เผือก",
+              "ans": "เผือก",
+              "hint": "ยอดนักสืบ",
+              "pronounce": "1 พยางค์",
+              "pic": [
+                {
+                  "name": "เผือก",
+                  "path": "/imgs/questions/Vegetable/easy/เผือก/taro.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "หัว-ไช-เท้า",
+              "ans": "หัวไชเท้า",
+              "hint": "หัวสีขาว ลักษณะคล้ายแครอท",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "หัว",
+                  "path": "/imgs/questions/Vegetable/easy/หัวไชเท้า/hua.svg"
+                },
+                {
+                  "name": "ไช",
+                  "path": "/imgs/questions/Vegetable/easy/หัวไชเท้า/chai.svg"
+                },
+                {
+                  "name": "เท้า",
+                  "path": "/imgs/questions/Vegetable/easy/หัวไชเท้า/tao.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "ผัก-ชี",
+              "ans": "ผักชี",
+              "hint": "มาคู่กับผักพระ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ผัก",
+                  "path": "/imgs/questions/Vegetable/easy/ผักชี/pak.svg"
+                },
+                {
+                  "name": "ชี",
+                  "path": "/imgs/questions/Vegetable/easy/ผักชี/she.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "พิก-ชี้-ฟ้า",
+              "ans": "พริกชี้ฟ้า",
+              "hint": "พริกระวังฟ้าผ่า",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "พิก",
+                  "path": "/imgs/questions/Vegetable/easy/พริกชี้ฟ้า/pig.svg"
+                },
+                {
+                  "name": "ชี้",
+                  "path": "/imgs/questions/Vegetable/easy/พริกชี้ฟ้า/shee.svg"
+                },
+                {
+                  "name": "ฟ้า",
+                  "path": "/imgs/questions/Vegetable/easy/พริกชี้ฟ้า/fah.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "กระ-เทียม",
+              "ans": "กระเทียม",
+              "hint": "ใช้ไล่แวมไพร์",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "กระ",
+                  "path": "/imgs/questions/Vegetable/easy/กระเทียม/kra.svg"
+                },
+                {
+                  "name": "เทียม",
+                  "path": "/imgs/questions/Vegetable/easy/กระเทียม/tium.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Normal",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "ลำ-ตึง",
+              "ans": "ตำลึง",
+              "hint": "ผักขี้ตกใจ ผักประหลาดใจ",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "ลำ",
+                  "path": "/imgs/questions/Vegetable/normal/ตำลึง/rum.svg"
+                },
+                {
+                  "name": "ตึง",
+                  "path": "/imgs/questions/Vegetable/normal/ตำลึง/teung.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ผัก-การ์ด-หอม",
+              "ans": "ผักกาดหอม",
+              "hint": "อยู่กับผักชนิดนี้แล้วเขิน",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ผัก",
+                  "path": "/imgs/questions/Vegetable/normal/ผักการ์ดหอม/pak.svg"
+                },
+                {
+                  "name": "การ์ด",
+                  "path": "/imgs/questions/Vegetable/normal/ผักการ์ดหอม/card.svg"
+                },
+                {
+                  "name": "หอม",
+                  "path": "/imgs/questions/Vegetable/normal/ผักการ์ดหอม/hom.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "มะกูด",
+              "ans": "มะกรูด",
+              "hint": "เปลือกสีเขียว มีกลิ่นหอม พบได้ในสูตรยาสระผม",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "มะกูด",
+                  "path": "/imgs/questions/Vegetable/normal/มะกรูด/magood.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "เห็ด-เข็ม-ทอง",
+              "ans": "เห็ดเข็มทอง",
+              "hint": "เบคอนพัน...",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "เห็ด",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดเข็มทอง/hed.svg"
+                },
+                {
+                  "name": "เข็ม",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดเข็มทอง/khem.svg"
+                },
+                {
+                  "name": "ทอง",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดเข็มทอง/thong.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "เหาะ-เผ็ด",
+              "ans": "เห็ดเผาะ",
+              "hint": "เหาะแบบ spicy",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "เหาะ",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดเผาะ/huh.svg"
+                },
+                {
+                  "name": "เผ็ด",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดเผาะ/ped.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "กระ-ทก-รก",
+              "ans": "กะทกรก",
+              "hint": "ไม้เถาเลื้อยคล้ายตำลึง",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กระ",
+                  "path": "/imgs/questions/Vegetable/normal/กะทกรก/ka.svg"
+                },
+                {
+                  "name": "ทก",
+                  "path": "/imgs/questions/Vegetable/normal/กะทกรก/tok.svg"
+                },
+                {
+                  "name": "รก",
+                  "path": "/imgs/questions/Vegetable/normal/กะทกรก/rok.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "ใบบัว-บก",
+              "ans": "ใบบัวบก",
+              "hint": "บัวที่ไม่ได้ปลูกในน้ำ แก้ช้ำใน",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ใบบัว",
+                  "path": "/imgs/questions/Vegetable/normal/ใบบัวบก/bai-bua.svg"
+                },
+                {
+                  "name": "บก",
+                  "path": "/imgs/questions/Vegetable/normal/ใบบัวบก/bok.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "ใบ-ชะ-พลู",
+              "ans": "ใบชะพลู",
+              "hint": "ใบคล้ายรูปหัวใจ ใช้กินเมี่ยงคำ",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "ใบ",
+                  "path": "/imgs/questions/Vegetable/normal/ใบชะพลู/bai.svg"
+                },
+                {
+                  "name": "ชะ",
+                  "path": "/imgs/questions/Vegetable/normal/ใบชะพลู/sha.svg"
+                },
+                {
+                  "name": "พลู",
+                  "path": "/imgs/questions/Vegetable/normal/ใบชะพลู/pooh.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "หนัก-ขะ-แผง",
+              "ans": "ผักแขนง",
+              "hint": "ต้นอ่อนของกะหล่ำปลี",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "หนัก",
+                  "path": "/imgs/questions/Vegetable/normal/ผักแขนง/nhak.svg"
+                },
+                {
+                  "name": "ขะ",
+                  "path": "/imgs/questions/Vegetable/normal/ผักแขนง/ka.svg"
+                },
+                {
+                  "name": "แผง",
+                  "path": "/imgs/questions/Vegetable/normal/ผักแขนง/phaeng.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "เห็ด-หู-หนู",
+              "ans": "เห็ดหูหนู",
+              "hint": "เห็ดสีน้ำตาล คล้ายอวัยวะของสัตว์เล็ก ร้องจี๊ดๆ",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "เห็ด",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดหูหนู/hed.svg"
+                },
+                {
+                  "name": "หู",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดหูหนู/hoo.svg"
+                },
+                {
+                  "name": "หนู",
+                  "path": "/imgs/questions/Vegetable/normal/เห็ดหูหนู/nhoo.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modeName": "Hard",
+          "questions": [
+            {
+              "Number": 1,
+              "question": "บีท-รูด",
+              "ans": "บีทรูท",
+              "hint": "มีอีกชื่อว่า ผักกาดฝรั่ง",
+              "pronounce": "2 พยางค์",
+              "pic": [
+                {
+                  "name": "บีท",
+                  "path": "/imgs/questions/Vegetable/hard/บีทรูด/bid.svg"
+                },
+                {
+                  "name": "รูด",
+                  "path": "/imgs/questions/Vegetable/hard/บีทรูด/root.svg"
+                }
+              ]
+            },
+            {
+              "Number": 2,
+              "question": "ผัก-ตบ-ชวา",
+              "ans": "ผักตบชวา",
+              "hint": "พืชน้ำล้ม อยู่ได้ในทุกสภาพน้ำ",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "ผัก",
+                  "path": "/imgs/questions/Vegetable/hard/ผักตบชวา/pak.svg"
+                },
+                {
+                  "name": "ตบ",
+                  "path": "/imgs/questions/Vegetable/hard/ผักตบชวา/tob.svg"
+                },
+                {
+                  "name": "ชวา",
+                  "path": "/imgs/questions/Vegetable/hard/ผักตบชวา/java.svg"
+                }
+              ]
+            },
+            {
+              "Number": 3,
+              "question": "ตด-หมู-ตด-หมา",
+              "ans": "ตดหมูตดหมา",
+              "hint": "มีอีกชื่อว่า ย่านพาโหม เป็นไม้เลื้อย",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "ตด",
+                  "path": "/imgs/questions/Vegetable/hard/ตดหมูตดหมา/tod.svg"
+                },
+                {
+                  "name": "หมู",
+                  "path": "/imgs/questions/Vegetable/hard/ตดหมูตดหมา/mhoo.svg"
+                },
+                {
+                  "name": "ตด",
+                  "path": "/imgs/questions/Vegetable/hard/ตดหมูตดหมา/tod.svg"
+                },
+                {
+                  "name": "หมา",
+                  "path": "/imgs/questions/Vegetable/hard/ตดหมูตดหมา/mha.svg"
+                }
+              ]
+            },
+            {
+              "Number": 4,
+              "question": "อัคคี-ทวาร",
+              "ans": "อัคคีทวาร",
+              "hint": "ไฟลนก้น",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "อัคคี",
+                  "path": "/imgs/questions/Vegetable/hard/อัคคีทวาร/fire.svg"
+                },
+                {
+                  "name": "ทวาร",
+                  "path": "/imgs/questions/Vegetable/hard/อัคคีทวาร/tawan.svg"
+                }
+              ]
+            },
+            {
+              "Number": 5,
+              "question": "อัน-ฟัน-ฟ้า",
+              "ans": "อัลฟัลฟ่า",
+              "hint": "พืชตระกูลถั่ว มีฝัก ปลูกได้ทุกสภาพอากาศทั่วโลก",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "อัน",
+                  "path": "/imgs/questions/Vegetable/hard/อัลฟัลฟ่า/un.svg"
+                },
+                {
+                  "name": "ฟัน",
+                  "path": "/imgs/questions/Vegetable/hard/อัลฟัลฟ่า/fun.svg"
+                },
+                {
+                  "name": "ฟ้า",
+                  "path": "/imgs/questions/Vegetable/hard/อัลฟัลฟ่า/fah.svg"
+                }
+              ]
+            },
+            {
+              "Number": 6,
+              "question": "คว่ำ-ตาย-หงาย-เป็น",
+              "ans": "คว่ำตายหงายเป็น",
+              "hint": "พืชล้มลุก อวบน้ำ ใบเดี่ยว",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "คว่ำ",
+                  "path": "/imgs/questions/Vegetable/hard/คว่ำหงายตายเป็น/kwam.svg"
+                },
+                {
+                  "name": "ตาย",
+                  "path": "/imgs/questions/Vegetable/hard/คว่ำหงายตายเป็น/tai.svg"
+                },
+                {
+                  "name": "หงาย",
+                  "path": "/imgs/questions/Vegetable/hard/คว่ำหงายตายเป็น/ngai.svg"
+                },
+                {
+                  "name": "เป็น",
+                  "path": "/imgs/questions/Vegetable/hard/คว่ำหงายตายเป็น/pen.svg"
+                }
+              ]
+            },
+            {
+              "Number": 7,
+              "question": "กำลัง-ควาย-ถึก",
+              "ans": "กำลังควายถึก",
+              "hint": "พืชไม้เถา มีชื่อเหมือนสัตว์ที่ใช้ไถนาลักษณะถึกทน",
+              "pronounce": "4 พยางค์",
+              "pic": [
+                {
+                  "name": "กำลัง",
+                  "path": "/imgs/questions/Vegetable/hard/กำลังควายถึก/kam-lung.svg"
+                },
+                {
+                  "name": "ควาย",
+                  "path": "/imgs/questions/Vegetable/hard/กำลังควายถึก/buffalo.svg"
+                },
+                {
+                  "name": "ถึก",
+                  "path": "/imgs/questions/Vegetable/hard/กำลังควายถึก/teuk.svg"
+                }
+              ]
+            },
+            {
+              "Number": 8,
+              "question": "เกล็ด-ปลาช่อน",
+              "ans": "เกล็ดปลาช่อน",
+              "hint": "เกล็ดของปลาชนิดหนึ่งในไทย",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "เกล็ด",
+                  "path": "/imgs/questions/Vegetable/hard/เกล็ดปลาช่อน/gled.svg"
+                },
+                {
+                  "name": "ปลาช่อน",
+                  "path": "/imgs/questions/Vegetable/hard/เกล็ดปลาช่อน/pla-shon.svg"
+                }
+              ]
+            },
+            {
+              "Number": 9,
+              "question": "กระเช้า-ผี-มด",
+              "ans": "กระเช้าผีมด",
+              "hint": "ภาชนะใส่ผลไม้ของวิญญาณมด",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กระเช้า",
+                  "path": "/imgs/questions/Vegetable/hard/กระเช้าผีมด/kra-shao.svg"
+                },
+                {
+                  "name": "ผี",
+                  "path": "/imgs/questions/Vegetable/hard/กระเช้าผีมด/phee.svg"
+                },
+                {
+                  "name": "ผี",
+                  "path": "/imgs/questions/Vegetable/hard/กระเช้าผีมด/mod.svg"
+                }
+              ]
+            },
+            {
+              "Number": 10,
+              "question": "กระ-ทุ่ง-หมาบ้า",
+              "ans": "กระทุงหมาบ้า",
+              "hint": "นกปากใหญ่กินปลาได้หลายตัว + หมาที่มีลักษณะดุร้าย",
+              "pronounce": "3 พยางค์",
+              "pic": [
+                {
+                  "name": "กระ",
+                  "path": "/imgs/questions/Vegetable/hard/กระทุงหมาบ้า/kra.svg"
+                },
+                {
+                  "name": "ทุ่ง",
+                  "path": "/imgs/questions/Vegetable/hard/กระทุงหมาบ้า/tung.svg"
+                },
+                {
+                  "name": "หมาบ้า",
+                  "path": "/imgs/questions/Vegetable/hard/กระทุงหมาบ้า/mha-ba.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
